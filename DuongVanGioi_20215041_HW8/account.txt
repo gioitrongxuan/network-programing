@@ -1,0 +1,8 @@
+user1 abc123 1
+user2 ab12 1
+user3 1 1
+user4 1 1
+a abc1 1
+b 1 1
+c 1 1
+d 1 1
