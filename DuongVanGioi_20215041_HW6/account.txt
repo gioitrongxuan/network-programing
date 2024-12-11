@@ -1,0 +1,4 @@
+user1 1 0 8.8.8.8
+user2 f 1 google.com
+hust abcd 1 hust.edu.vn
+soict soict123 1 soict.hust.edu.vn
