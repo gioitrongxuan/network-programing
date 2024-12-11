@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/gioi/Documents/learn/hust/thltm/DuongVanGioi_20215041_HW3/hello'
+relocations:     []
+...

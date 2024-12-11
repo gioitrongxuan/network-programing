@@ -1,0 +1,2 @@
+user1 a 1 8.8.8.8
+user2 2 1 google.com
